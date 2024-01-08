@@ -10,8 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ">= 0.13.6 < 2.0.0"
-  webviewimage: ">= 0.0.4 < 1.0.0"
+  http: ">=0.13.6 <2.0.0"
+  webviewimage:
+    git:
+      url: "https://github.com/Coder-Manuel/webviewimage.git"
+      ref: "master"
 
 dev_dependencies:
   flutter_test:
@@ -19,4 +22,3 @@ dev_dependencies:
   flutter_lints: ^2.0.1
 
 flutter:
-
