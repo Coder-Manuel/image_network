@@ -14,7 +14,7 @@ dependencies:
   webviewimage:
     git:
       url: "https://github.com/Coder-Manuel/webviewimage.git"
-      ref: "master"
+      ref: "stable"
 
 dev_dependencies:
   flutter_test:
